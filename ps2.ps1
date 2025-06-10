@@ -1,9 +1,4 @@
-#                      _                        
-#  _   _  ___  _   _  | | ___ __   _____      __
-# | | | |/ _ \| | | | | |/ /  _ \ / _ \ \ /\ / /
-# | |_| | (_) | |_| |_|   <| | | | (_) \ V  V / 
-#  \__, |\___/ \__,_(_)_|\_\_| |_|\___/ \_/\_/  
-#  |___/                                        
+# For educational use only. Do not use without proper authorization.                                  
 
 $basePath = "C:\Users\Public\Documents\scripts"
 $dumpFolder = "$basePath\$env:USERNAME-$(get-date -f yyyy-MM-dd)"
