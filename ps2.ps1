@@ -1,4 +1,10 @@
-# For educational use only. Do not use without proper authorization.                                  
+# ⚠️ Educational Red Team Script (DO NOT USE MALICIOUSLY)
+
+#**DISCLAIMER:**  
+#This script is intended solely for **educational and authorized penetration testing** in controlled environments.  
+#**DO NOT** use this code on any device or network you do not own or have explicit permission to test.  
+#Unauthorized use may violate local, state, or federal laws.
+#Created for research and red team demonstrations only.                               
 
 $basePath = "C:\Users\Public\Documents\scripts"
 $dumpFolder = "$basePath\$env:USERNAME-$(get-date -f yyyy-MM-dd)"
